@@ -1,0 +1,42 @@
+.country-card{
+    background:White;
+    width:15rem;
+    border-radius: 3px;
+    padding:1rem;
+    margin:1.5rem;
+    background-color: goldenrod;
+    min-height:26rem;
+}
+
+.flag-wrapper{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow:hidden;
+    border:4px ridge white;
+    transform: translateZ(0);
+}
+
+.flag{
+    transition:transform 1s ease;
+    width:15rem;
+    height:10rem;
+}
+
+.flag:hover{
+    background-size:cover;
+    transform: scale(1.2);
+}
+
+.info-wrapper{
+    line-height: 3ch;
+}
+
+.atbr{
+    font-weight: bold;
+}
+
+.atbr-val{
+    color:rgb(50, 17, 82);
+    font-weight: 500;
+}
