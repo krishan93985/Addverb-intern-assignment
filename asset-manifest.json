@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Addverb-intern-assignment/static/css/main.e4fc7ee4.css",
+    "main.css": "/Addverb-intern-assignment/static/css/main.6a5f6743.css",
     "main.js": "/Addverb-intern-assignment/static/js/main.ab2a3c85.js",
     "static/js/787.6da2840d.chunk.js": "/Addverb-intern-assignment/static/js/787.6da2840d.chunk.js",
     "index.html": "/Addverb-intern-assignment/index.html",
-    "main.e4fc7ee4.css.map": "/Addverb-intern-assignment/static/css/main.e4fc7ee4.css.map",
+    "main.6a5f6743.css.map": "/Addverb-intern-assignment/static/css/main.6a5f6743.css.map",
     "main.ab2a3c85.js.map": "/Addverb-intern-assignment/static/js/main.ab2a3c85.js.map",
     "787.6da2840d.chunk.js.map": "/Addverb-intern-assignment/static/js/787.6da2840d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4fc7ee4.css",
+    "static/css/main.6a5f6743.css",
     "static/js/main.ab2a3c85.js"
   ]
 }
